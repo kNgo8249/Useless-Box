@@ -11,7 +11,7 @@ volatile int toggleSwitch = 0;         // variable for reading the pushbutton st
 
 // twelve servo objects can be created on most boards
 
-int pos = 6;    // variable to store the servo position
+int pos = 5;    // variable to store the servo position
 
 int randNum;
 boolean derek = true;
